@@ -1,4 +1,4 @@
-# ScopeTurretMagnifier
+# 3D-Printed Scope Turret Magnifier(s)
 These are the project files for a simple scope turret magnifier.  It is 3D printed and uses 1 inch PCX lenses (magnification lenses)
 It is made to attach to a 1 inch scope tube, and secures with two M3 bolts and nuts.
 The lens retainer piece needs to be glued.
