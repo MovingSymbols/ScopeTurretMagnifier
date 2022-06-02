@@ -9,6 +9,9 @@ My up-close vision is a bit bad when I shoot because I am wearing my "everyday f
 This solves that by putting mild magnification lenses in front of the turrets.  Think of it as reading glasses for the itty bitty numbers and lines.
 ![Turret Magnifier In Use](https://github.com/MovingSymbols/ScopeTurretMagnifier/blob/main/Turret%20Magnifier%20In%20Use%20View.jpg)
 
+There is one for the elevation, and one for the windage. Two lenses in total.
+![Turret Magnifiers Side View](https://raw.githubusercontent.com/MovingSymbols/ScopeTurretMagnifier/main/Turret%20Magnifier%20Side%20View%20Installed%20B.jpg)
+
 ## This Looks a Bit Familiar
 Yeah, the idea is inspired by MK Machining's product for the same purpose (which is also 3D printed) https://www.mkmachining.com/product/gen-ii-pro-series-turret-magnifier/
 
